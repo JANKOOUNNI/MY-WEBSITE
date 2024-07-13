@@ -1,0 +1,68 @@
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head2{
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.song{
+    border-style:  solid;
+    border-color: rgb(8, 8, 8);
+    
+    display: flex;
+    justify-items:center;
+    display: flex;
+}
+.insta{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
+.son{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.sp{
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+}
+.con{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+.in{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+/* headers border*/
+.p0{
+    border-style: solid;
+}
+.p2{
+    border-style: solid;
+}
+.sp1{
+    border-style: solid;
+}
+.p1{
+    color: rgb(223, 14, 14);   
+   }
+.s2{
+    border-style: solid;
+}
+.about{
+    border-style: solids;
+}
