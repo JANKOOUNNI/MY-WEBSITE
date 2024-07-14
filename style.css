@@ -4,10 +4,17 @@
     align-items: center;
     justify-content: center;
 }
+.login{
+    display:flex ;
+    align-items: center;
+    justify-content:right;
+    top: 3px;
+    height: -30px; width: -100px;
+}
 .head2{
     display: flex;
-    align-items: center;
-    justify-content: center;    
+    align-items: right;
+    justify-content:center;
 }
 .song{
     border-style:  solid;
@@ -17,7 +24,19 @@
     justify-items:center;
     display: flex;
 }
+.youtube{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
 .insta{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
+.mail{
     align-items: center;
     justify-content: center;
     display: flex;
